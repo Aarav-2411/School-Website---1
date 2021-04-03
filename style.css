@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.menu_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
